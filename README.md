@@ -29,6 +29,8 @@ Projeto desenvolvido como parte da disciplina de **Desenvolvimento de Dispositiv
 
 ---
  
--- Autores:
-Nathan Mariotto 
-Leonardo Frachine
+## Autores:
+- Nathan Mariotto 
+- Leonardo Frachine
+
+---
